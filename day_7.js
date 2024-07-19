@@ -1,5 +1,5 @@
 //topic - Objects
-//activity 1- object creation and access
+
 /*
 JavaScript objects are collections of properties, where each property is defined as a key-value pair. 
 */
