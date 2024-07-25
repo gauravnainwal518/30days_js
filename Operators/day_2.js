@@ -1,4 +1,4 @@
-//activity 1 - arithmetic operations.
+//activity 1 - arithmetic operators.
 let a = 5;
 let b = 6;
 let sum = a+b;
